@@ -13,4 +13,5 @@ install hyprland hyprpaper rofi terminator waybar
 " copy from /etc/xdg "
 
 cp /etc/xdg/waybar/config ~/.config/waybar/config
+
 cp /etc/xdg/waybar/style.css ~/.config/waybar
