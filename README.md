@@ -18,6 +18,7 @@ yay -S hyprland hyprpaper wofi terminator waybar tt-font-awesome
 " copy from /etc/xdg "
 
 cp /etc/xdg/waybar/config ~/.config/waybar/config
+
 cp /etc/xdg/waybar/style.css ~/.config/waybar
 
 
